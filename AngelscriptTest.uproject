@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A871FE66-49AB-BA9A-10C3-188E50AC15D7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AngelscriptTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
